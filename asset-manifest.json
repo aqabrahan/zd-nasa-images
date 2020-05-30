@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zd-nasa-images/static/css/main.baa85363.chunk.css",
+    "main.js": "/zd-nasa-images/static/js/main.409f100c.chunk.js",
+    "main.js.map": "/zd-nasa-images/static/js/main.409f100c.chunk.js.map",
+    "runtime-main.js": "/zd-nasa-images/static/js/runtime-main.726fc6e0.js",
+    "runtime-main.js.map": "/zd-nasa-images/static/js/runtime-main.726fc6e0.js.map",
+    "static/js/2.d67839af.chunk.js": "/zd-nasa-images/static/js/2.d67839af.chunk.js",
+    "static/js/2.d67839af.chunk.js.map": "/zd-nasa-images/static/js/2.d67839af.chunk.js.map",
+    "index.html": "/zd-nasa-images/index.html",
+    "precache-manifest.248e25f8c3e829113f6e49ba446f5888.js": "/zd-nasa-images/precache-manifest.248e25f8c3e829113f6e49ba446f5888.js",
+    "service-worker.js": "/zd-nasa-images/service-worker.js",
+    "static/css/main.baa85363.chunk.css.map": "/zd-nasa-images/static/css/main.baa85363.chunk.css.map",
+    "static/js/2.d67839af.chunk.js.LICENSE.txt": "/zd-nasa-images/static/js/2.d67839af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.726fc6e0.js",
+    "static/js/2.d67839af.chunk.js",
+    "static/css/main.baa85363.chunk.css",
+    "static/js/main.409f100c.chunk.js"
+  ]
+}
